@@ -8,4 +8,5 @@ my configs typically use gruvbox with purple purple as the accent color when pos
 # st
 uses scrollback, alpha, and anysize patches minimal keybind changes or aditional features currently
 # dwm
-uses cool autostart for automaticly starting programs, useless gaps for gaps, fibonacci for more comfortable tiling experience swallow to swallow terminal when booting some application ex mpv
+uses cool autostart for automaticly starting programs, useless gaps for gaps, fibonacci for more comfortable tiling experience swallow to swallow terminal when booting some application ex mpv, focusadjecenttag for focusing on the left and right tags
+
