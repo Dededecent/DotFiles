@@ -6,13 +6,13 @@ static const Block blocks[] = {
 //	{"Scripts", "/home/oli/Scripts/dwmblocks-distrotube/scripts/upt",		 60,		          2},
 
 	
-	{"Mem: ", "/home/oli/Scripts/memory",	 5,		              1},
+	{" Mem: ", "/home/oli/Scripts/memory",	 5,		              1},
 
-	{"Updates: ", "/home/oli/Scripts/pacupdate",  360,		          9},
+	{" Updates: ", "/home/oli/Scripts/pacupdate",  360,		          9},
 
-	{"Volume: ", "/home/oli/Scripts/volume",     5,		              10},
+	{" Volume: ", "/home/oli/Scripts/volume",     5,		              10},
 
-	{"Clock: ", "/home/oli/Scripts/clock",	     20,	              0},
+	{" Clock: ", "/home/oli/Scripts/clock",	     20,	              0},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
