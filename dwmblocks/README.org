@@ -1,2 +1,2 @@
-#Based off of distrotubes dwm config
+## Based off of distrotubes dwm config
 check him out :)
