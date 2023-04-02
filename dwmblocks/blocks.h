@@ -14,13 +14,9 @@ static const Block blocks[] = {
 	{"", "$HOME/Scripts/volume",     5,		              10},
 
 	{"", "$HOME/Scripts/clock",	     20,	              0},
-	{" Mem: ", "$HOME/Scripts/memory",	 5,		              1},
 
-	{" Updates: ", "$HOME/Scripts/pacupdate",  360,		          9},
 
-	{" Volume: ", "$HOME/Scripts/volume",     5,		              10},
 
-	{" Clock: ", "$HOME/Scripts/clock",	     20,	              0},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
