@@ -143,8 +143,8 @@ static Button buttons[] = {
 
 static const char *const autostart[] = {
 	"sh", "-c", "autorandr --load curmain", NULL,
-	"sh", "-c", "nitrogen --restore", NULL,
 	"dwmblocks", NULL,
 	"picom", NULL,
+	"sh", "-c", "nitrogen --restore", NULL,
 	NULL
 };

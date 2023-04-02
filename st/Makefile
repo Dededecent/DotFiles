@@ -19,7 +19,7 @@ config.h:
 	cp config.def.h config.h
 
 .c.o:
-	$(CC) $(STCFLAGS) -c -O3 $<
+	$(CC) $(STCFLAGS) -c -O3 -march=native $<
 
 st.o: config.h st.h win.h
 x.o: arg.h config.h st.h win.h
