@@ -8,6 +8,9 @@
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 setxkbmap us -variant colemak
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+export LANGUAGE=en_US.UTF-8
 export EDITOR='vim'
 export VISUAL='gedit'
 export PS1="\e[0;35m[\u@\e[0;32m\h \e[0;35m\W]\[\e[0m\]\$ "
