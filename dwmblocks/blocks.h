@@ -7,7 +7,7 @@ static const Block blocks[] = {
 
 	
 <<<<<<< HEAD
-	{"",	"/home/oli/Scripts/MusicMain",	3,	0},
+	{"",	"$HOME/Scripts/MusicMain",	3,	0},
 	{"", "/home/oli/Scripts/memory",	 5,		              1},
 
 	{" Updates: ", "/home/oli/Scripts/pacupdate",  360,		          9},
