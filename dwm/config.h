@@ -71,6 +71,7 @@ static const char *browser[] = { "firefox", NULL};
 static const char *steam[] = { "steam", NULL};
 static const char *fileman[] = { "pcmanfm", NULL };
 static const char *scriptRunner[] = {"sh", "-c", "./Scripts/ScriptRunner.sh", NULL};
+// XK_l XK_u and XK_y used for deadbeef global hotkeys
 static Key keys[] = {
 	/* modifier                     key        function        argument */
 	{ MODKEY,                       XK_s,      spawn,          {.v = dmenucmd } },
